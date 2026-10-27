@@ -290,9 +290,10 @@ st.markdown(
     ">
         <p style="margin: 0; color: #feca57;">Built by</p>
         <p style="margin: 6px 0 0 0; color: #ff6b81; font-weight: bold;">
-            Sarthak Jain • Preeyashv Joshi • Yogesh Singh • Atharv Sharma
+            Sarthak Jain  • Yogesh Singh • Atharv Sharma
         </p>
     </div>
     """,
     unsafe_allow_html=True
 )
+ 
